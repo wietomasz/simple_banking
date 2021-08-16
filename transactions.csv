@@ -1,0 +1,9 @@
+type,client,tx,amount
+"deposit",1,1,1
+"deposit",1,2,2
+"withdrawal",1,3,3
+"dispute",1,2,0
+"chargeback",1,2,0
+"deposit",2,2,2
+"deposit",3,2,2
+"deposit",4,2,2
